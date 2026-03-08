@@ -4,7 +4,13 @@ A **React + Tailwind CSS** frontend project inspired by Netflix’s cinematic st
 This dashboard celebrates **International Women’s Day** with a themed gallery, gradient background, and smooth UI.
 
 ---
+## 🚀 Live Demo
 
+🔗 Live Site: https://netflix-login-lilac.vercel.app/
+
+## 📂 GitHub Repository
+
+🔗 Repository:
 
 ---
 
