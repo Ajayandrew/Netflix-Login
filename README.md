@@ -1,4 +1,4 @@
-# Netflix Women's Day Dashboard 🎉
+# Netflix Login 🎉
 
 A **React + Tailwind CSS** frontend project inspired by Netflix’s cinematic style.  
 This dashboard celebrates **International Women’s Day** with a themed gallery, gradient background, and smooth UI.
